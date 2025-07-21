@@ -3,6 +3,7 @@
 :root {
   --background: #000000;
   --foreground: #ffffff;
+  font-family: var(--font-inter), sans-serif;
 }
 
 html {
